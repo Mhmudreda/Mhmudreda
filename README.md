@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Mahmoud Reda. Front-end Developer | React.js | Next.js.
 - 🔭 I’m currently working on **enhancing my frontend skills**<br>- 🌱 I’m learning **React, TypeScript, and Advanced JavaScript**<br>- 👨‍💻 All of my projects are available on my GitHub  <br>- 💬 Ask me about **JavaScript, React, HTML, CSS, Tailwind**<br>- 📫 How to reach me: **salemreda578@email.com || 01003205447**<br>- ⚡ Fun fact: I love building clean and fast UI
 
 
